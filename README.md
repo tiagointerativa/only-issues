@@ -25,5 +25,6 @@ Na area de discussões você pode abrir um tópico e registrar a sua sugestão o
  - Você pode comentar qualquer issues ou discussão, mesmo que não seja você que tenha aberto.
  - Use as issues somente para relatar bugs.
  - Para dúvidas e sugestões abra um tópico nas discussões, se a sua sugestão for aceita, ela será transformada em issues.
+ - Use labels para que seja mais facil de entender a finalidade da sua publicação.
 
 
