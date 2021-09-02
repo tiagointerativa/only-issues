@@ -1,8 +1,4 @@
 <p align="center">
- <a href="https://github.com/tiagointerativa/only-issues/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tiagointerativa/only-issues?color=blue&style=for-the-badge"></a>
-  <a href="https://github.com/tiagointerativa/only-issues/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/tiagointerativa/only-issues/bug?color=red&label=BUGS&style=for-the-badge"></a>
- <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/tiagointerativa/only-issues/sugestao?color=%23006B75&label=SUGEST%C3%95ES&style=for-the-badge">
- <img alt="GitHub issues by-label" src="https://img.shields.io/github/issues/tiagointerativa/only-issues/feature?color=yellow&label=FEATURES&style=for-the-badge">
   <a href="https://github.com/tiagointerativa/only-issues/issues"><img alt="GitHub issues" src="https://img.shields.io/website?down_color=red&down_message=FORA%20DO%20AR&label=estado&style=for-the-badge&up_color=green&up_message=no%20ar&url=https%3A%2F%2Fmc.pharmus.com.br"></a>
  
  
