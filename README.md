@@ -12,7 +12,7 @@
 
 ## 🏷 O que são as Issues?
 
-Através das Issues você poderá relatar um bug na aplicação, descrever uma sugestão que você tenha e nas issues também ficarão listado as funcionalidades que estão sendo desenvolvidas.
+Através das Issues você poderá relatar um bug na aplicação, descrever uma sugestão que você tenha e nas issues também ficarão as novas funcionalidades que estão sendo desenvolvidas.
 
 ## 🌟 Dicas
 
