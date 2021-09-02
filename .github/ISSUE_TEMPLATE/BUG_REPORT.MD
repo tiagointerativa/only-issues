@@ -1,6 +1,6 @@
 ---
 name: Bug
-about: Relate um problema que esta acontecendo na aplicação.
+about: Relate um problema que está acontecendo na aplicação.
 title: "[bug] - "
 labels: "bug"
 
