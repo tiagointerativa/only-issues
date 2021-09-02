@@ -15,9 +15,9 @@
 <p align="center">Repositório para documentação de backlog, sugestões, features e bugs.</p>
 </p>
 
-## 🏷 O que são as Issues?
+## 🏷 Como relatar um bug ou sugestão?
 
-Através das Issues você poderá relatar um bug na aplicação, descrever uma sugestão que você tenha e nas issues também ficarão as novas funcionalidades que estão sendo desenvolvidas, para acessar as issues, clique <a href="https://github.com/tiagointerativa/only-issues/issues">AQUI</a>.
+Através das Issues você poderá relatar um bug na aplicação, descrever uma sugestão que você tenha e também é lá que ficarão as novas funcionalidades que estão sendo desenvolvidas, para acessar as issues, clique <a href="https://github.com/tiagointerativa/only-issues/issues">AQUI</a>.
 
 ## 🌟 Dicas
 
