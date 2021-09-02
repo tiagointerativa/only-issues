@@ -21,7 +21,7 @@ Através das Issues você poderá relatar um bug na aplicação, descrever uma s
 
 ## 🌟 Dicas
 
- - Busque sempre detalhar os bug ou sugestão que esta sendo relatado.
+ - Busque sempre detalhar o bug ou sugestão que esta sendo relatado.
  - Você pode comentar qualquer issues, mesmo que não seja você que tenha aberto.
  - Uma Issues também pode ser aberta caso você tenha dúvidas de como funciona uma rotina da aplicação.
 
