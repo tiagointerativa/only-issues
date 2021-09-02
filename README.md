@@ -17,14 +17,14 @@ Através das Issues você poderá relatar um bug na aplicação, para acessar as
 
 ## 💬 Como registrar uma sugestão ou tirar dúvidas?
 
-Na area de discussões você pode abrir um tópico e registrar a sua sugestão ou tirar a sua dúvida, sempre que precisar você pode criar um novo tópico ou até mesmo comentar um tópico que já está aberto.
+Na área de discussões você pode abrir um tópico e registrar a sua sugestão ou tirar a sua dúvida, sempre que precisar você pode criar um novo tópico ou até mesmo comentar um tópico que já está aberto.
 
 ## 🌟 Dicas
 
- - Busque sempre detalhar o bug ou sugestão que esta sendo relatado.
+ - Busque sempre detalhar o bug ou sugestão que está sendo relatado.
  - Você pode comentar qualquer issues ou discussão, mesmo que não seja você que tenha aberto.
  - Use as issues somente para relatar bugs.
  - Para dúvidas e sugestões abra um tópico nas discussões, se a sua sugestão for aceita, ela será transformada em issues.
- - Use labels para que seja mais facil de entender a finalidade da sua publicação.
+ - Use labels para que seja mais fácil de entender a finalidade da sua publicação.
 
 
