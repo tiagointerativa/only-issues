@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/tiagointerativa/only-issues/issues"><img alt="GitHub issues" src="https://img.shields.io/website?down_color=red&down_message=FORA%20DO%20AR&label=estado&style=for-the-badge&up_color=green&up_message=no%20ar&url=https%3A%2F%2Fmc.pharmus.com.br"></a>
+  <a href="https://mc.pharmus.com.br" target="_blank"><img alt="GitHub issues" src="https://img.shields.io/website?down_color=red&down_message=FORA%20DO%20AR&label=estado&style=for-the-badge&up_color=green&up_message=no%20ar&url=https%3A%2F%2Fmc.pharmus.com.br"></a>
  
  
 </p>
