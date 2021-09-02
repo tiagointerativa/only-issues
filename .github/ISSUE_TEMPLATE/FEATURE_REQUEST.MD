@@ -1,6 +1,6 @@
 ---
 name: Feature
-about: Sugestões ou idéias
+about: Novas funcionalidades
 title: "[feature] - "
 labels: feature
 
