@@ -11,14 +11,19 @@
 <p align="center">Repositório para documentação de backlog, sugestões, features e bugs.</p>
 </p>
 
-## 🏷 Como relatar um bug ou sugestão?
+## 👾 Como relatar um bug?
 
-Através das Issues você poderá relatar um bug na aplicação, descrever uma sugestão que você tenha e também é lá que ficarão as novas funcionalidades que estão sendo desenvolvidas, para acessar as issues, clique <a href="https://github.com/tiagointerativa/only-issues/issues">AQUI</a>.
+Através das Issues você poderá relatar um bug na aplicação, para acessar as issues, clique <a href="https://github.com/tiagointerativa/only-issues/issues">AQUI</a>, ou acesse através do menu, no item "Issues".
+
+## 💬 Como registrar uma sugestão ou tirar dúvidas?
+
+Na area de discussões você pode abrir um tópico e registrar a sua sugestão ou tirar a sua dúvida, sempre que precisar você pode criar um novo tópico ou até mesmo comentar um tópico que já está aberto.
 
 ## 🌟 Dicas
 
  - Busque sempre detalhar o bug ou sugestão que esta sendo relatado.
- - Você pode comentar qualquer issues, mesmo que não seja você que tenha aberto.
- - Uma Issues também pode ser aberta caso você tenha dúvidas de como funciona uma rotina da aplicação.
+ - Você pode comentar qualquer issues ou discussão, mesmo que não seja você que tenha aberto.
+ - Use as issues somente para relatar bugs.
+ - Para dúvidas e sugestões abra um tópico nas discussões, se a sua sugestão for aceita, ela será transformada em issues.
 
 
